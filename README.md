@@ -1,27 +1,28 @@
-<h1 align="center"> Desafio Github Markdows! </h1>
+<h1 align="center"> Desafio Github Markdowns! </h1>
 <p align="center"><img src="Work.gif" alt="Work.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-# 💫 Sobre mim
-## 🌎 Minha história:
+## 🎯 Sobre o desafio:
+1. Desafio proposto pela professora Aline Antunes da DIO.me - [@alinealien](https://github.com/alinealien).
+2. Instruções para a realização do Desafio encontra-se no anexo [informacoes-desafio.md](https://github.com/marcelodiedrich/desafio-github-markdown/blob/main/instrucoes-desafio.md).
+3. Esse README apresenta o resultado final do Desafio.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-- Nascido em 1981;
-- Graduado em Turismo em 2006; 
-- Graduando em Ciências Econômicas;
-- Já atuei em projetos e planejamento de Turismo, bem como empresário na área de hotelaria;
-- Ex-servidor público como fiscal no Conselho Regional de Odontologia do RS.
+## 🧩 Do zero ao ínicio de uma nova jornada:
+O tempo sempre correu contra mim e tive que alcança-lo. Destino que em muitas voltas me levou longe, mas não completou o **sonho**, o **desejo**, de fazer parte do mundo da programação. Passaram-se décadas, mas não passou uma vida e, talvez, eu esteja velho demais para ser jovem, mas novo demais para ser velho. <br> 
 
-## 💾 Paixão por programação:
-- Primeiros "programas" em arquivos .bat em MS-DOS, configurando seleção de execução de programas e diretórios através de menus, mudança de cor de fontes, etc.
-- 2º grau em Técnico de Processamento de Dados, utilizando "DataFlex" em 1998;
-- Entusiasta por Banco de Dados e programação voltadas ao comércio, hotelaria e manipulação de dados econômicos;
+Minha primeira experiência no fantástico Mundo da Computação iníciou-se em 1994, com os primeiros passos em MS-DOS, Word e Excell. Posteriormente, inície o 2º grau em Técnico em Processamento de Dados, que me fez arriscar minhas "programações" em MS-DOS e Windows, no DataFlex. Infelizmente, após o término do 2º grau, a vida me levou para outros caminhos nos quais a programação era apenas um hobby e não uma renda e uma profissão. 
 
-## 📈 Transição de carreira e evolução:
-- Atualmente trade no Mercado Financeiro Internacional;
-- Retomando paixão por programação e realizando cursos na DIO.me;
-- Procuro evoluir e ser o meu melhor sempre!
+A vida não parou, nem irá parar para eu realizar meu sonho, porém, decidi retomar do "zero" meu hobby, sonho, desejo ou o nome que quiser dar ao meu novo projeto. Vou correr atrás, pois ainda dá tempo de fazer o meu melhor e receber a oportunidade de provar meu esforço e valor. <b>
 
-## 💻 Objetivos:
+## 💾 O que estou aprendendo:
+- O curso de Github está me ensinando conceitos e aplicações importantes de sua utilização:
+  - Como usar *commit*;
+  - Criação de *brands*
+  - utilização de *issues*
+
+## 💻 Meus objetivos:
+Tenho como foco e objetivos trabalhar com:
 - Data Science;
 - Banco de Dados;
 - Programação Python.
