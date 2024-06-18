@@ -18,8 +18,8 @@ A vida não parou, nem irá parar para eu realizar meu sonho, porém, decidi ret
 ## 💾 O que estou aprendendo:
 - O curso de Github está me ensinando conceitos e aplicações importantes de sua utilização:
   - Como usar *commit*;
-  - Criação de *branchs*
-  - utilização de *issues*
+  - Criação de *branchs*;
+  - utilização de *issues*, *pulls requests* e demais comandos.
 
 ## 💻 Meus objetivos:
 Tenho como foco e objetivos trabalhar com:
