@@ -18,7 +18,7 @@ A vida não parou, nem irá parar para eu realizar meu sonho, porém, decidi ret
 ## 💾 O que estou aprendendo:
 - O curso de Github está me ensinando conceitos e aplicações importantes de sua utilização:
   - Como usar *commit*;
-  - Criação de *brands*
+  - Criação de *branchs*
   - utilização de *issues*
 
 ## 💻 Meus objetivos:
