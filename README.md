@@ -35,7 +35,9 @@ Tenho como foco e objetivos trabalhar com:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 &nbsp; Cursos e certificados:
-
+| Curso               |   Certificação |
+| -------------       |  --------------|
+|Formatação com Markdown  |  [certificado](https://www.dio.me/certificate/AIIUTYWS/share) |
 ## 📫 &nbsp; Como falar comigo:
 
 <a href="https://www.linkedin.com/in/marcelo-diedrich/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
