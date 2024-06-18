@@ -35,6 +35,7 @@ Tenho como foco e objetivos trabalhar com:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 &nbsp; Cursos e certificados:
+= Formatação com Markdown [Certificado](https://www.dio.me/certificate/AIIUTYWS/share)
 
 ## 📫 &nbsp; Como falar comigo:
 
